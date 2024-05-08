@@ -213,7 +213,7 @@ width: 40%;
     border-radius: 0px 0px 0px 70px;
     position: relative;
     z-index: 1;
-    left: -16px;
+    left: -22px;
 }
 .step1::before {
     content: "STEP 1";
@@ -330,7 +330,7 @@ width: 40%;
     content: "";
     position: absolute;
     top: -53px;
-    right: -43px;
+    right: -33px;
     z-index: 1;
     background-color: #0f1729;
     width: 176px;
